@@ -9,6 +9,7 @@ Most of these projects share one architecture: a reusable engine plus a swappabl
 ## Shipped
 
 - **[Groundwork](https://github.com/BytesFromToby/Groundwork)** — an AI sales-intelligence engine: finds funded prospects, maps the buying committee, catches the buy-now trigger, and names the objection a rep will hit. A persistent ledger means run two reads run one — nothing worked twice, nothing dropped. Domain-agnostic; swap the pack and it researches anything.
+- **[Walkdown](https://github.com/BytesFromToby/Walkdown)**: an early-alpha auditor for AI skills and agents. It reads what a model would load and cites every finding to a file and line, from hidden text to ways your data could leave. It shows you where to look and leaves the call to you.
 - **[RepoRouter](https://github.com/BytesFromToby/RepoRouter)** — autonomous GitHub issue-triage operator, live in production on a local 8B model. Safety enforced by the harness; guardrails pinned by pytest.
 - **[Polis](https://github.com/BytesFromToby/Polis)** — strategy game where 28 AI factions negotiate through live LLM audiences; a deterministic engine pinned by 638 tests enforces every deal.
 - **[Plumbline](https://github.com/BytesFromToby/plumbline)** — spec-driven workflow: eight single-responsibility agent skills and two unattended orchestrators take a written brief to verified code. Cross-skill contract audited in CI.
