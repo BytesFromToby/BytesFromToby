@@ -18,4 +18,4 @@ Based in Minneapolis. Give me a problem with a clear "This shouldn't be happenin
 
 ## Elsewhere
 
-🌐 [Portfolio](https://profile.bytesbytoby.workers.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/tobyiverson/) · ✉️ [BytesByToby@proton.me](mailto:BytesByToby@proton.me)
+🌐 [Portfolio](https://tobybytes.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tobyiverson/) · ✉️ [BytesByToby@proton.me](mailto:BytesByToby@proton.me)
